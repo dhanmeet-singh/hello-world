@@ -2,7 +2,7 @@
 
 int main()
 {
-    // Print welcome message
+    // Print welcome message :)
     printf("SatSriAkaal!!\n");
     
     return 0;

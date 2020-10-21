@@ -3,7 +3,7 @@
 int main()
 {
     // Print welcome message :)
-    printf("SatSriAkaal!!\n")
+    printf("SatSriAkaal!!\n");
     
     return 0;
 }
